@@ -1,0 +1,5 @@
+lunar-python==1.0.0
+Pillow==10.2.0
+pyinstaller==6.5.0
+tkcalendar==1.6.1
+pystray==0.19.5
